@@ -18,6 +18,9 @@ export default function Home() {
             Tiger click for Fireworks{" "}
           </button>
         </Link>
+        <Link href="/face3">
+          <button className=" bg-orange-500 mt-5  ">Tiger click for div</button>
+        </Link>
       </div>
     </div>
   );
